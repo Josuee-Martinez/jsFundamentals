@@ -1,0 +1,7 @@
+function number() {
+  for(let i = 0; 1 < 11; i++) {
+    console.log(i)
+  }
+}
+
+number();
