@@ -14,6 +14,10 @@ let fatArrows = (x) => console.log(x)
 
 fatArrows('this is a function')
 
-let str = (name) => console.log(name)
+let score = winner;
 
-console.log('josue');
+let score = 'winner';
+
+
+
+
